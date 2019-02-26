@@ -1,0 +1,47 @@
+.wrapper{
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    vertical-align: middle;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.container{
+    border-style: solid;
+    border-color: #DDD;
+    background-color: #F5F5F5;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+p, #submit-button{
+    font-family: Helvetica;
+    font-size: 1rem;
+}
+
+label {
+    font-family: Helvetica;
+    font-size: 2rem;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #DDD;
+    padding: 15px;
+    position: absolute;
+    top: -140px; 
+    background-color: white;
+}
+
+#submit-button{
+    padding:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #6495ED;
+    color: white;
+    border-style: none;
+    border-radius: 8px;
+}
+
+#text-message{
+    padding-top: 15px;
+}
